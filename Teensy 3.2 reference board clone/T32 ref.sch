@@ -856,40 +856,23 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <text x="-1.697" y="-1.6875" size="0.635" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="-1.5875" y1="-0.889" x2="1.5875" y2="0.889" layer="39"/>
 </package>
-<package name="SWITCH_PTH">
-<wire x1="3.048" y1="1.016" x2="3.048" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="3.048" y1="2.54" x2="2.54" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="-3.048" x2="3.048" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="3.048" y1="-2.54" x2="3.048" y2="-1.016" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="3.048" x2="-3.048" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="-3.048" y1="2.54" x2="-3.048" y2="1.016" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-3.048" x2="-3.048" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="-3.048" y1="-2.54" x2="-3.048" y2="-1.016" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="-3.048" x2="2.159" y2="-3.048" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-3.048" x2="-2.159" y2="-3.048" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="3.048" x2="-2.159" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.54" y1="3.048" x2="2.159" y2="3.048" width="0.2032" layer="51"/>
-<wire x1="2.159" y1="3.048" x2="-2.159" y2="3.048" width="0.2032" layer="21"/>
-<wire x1="-2.159" y1="-3.048" x2="2.159" y2="-3.048" width="0.2032" layer="21"/>
-<wire x1="3.048" y1="0.998" x2="3.048" y2="-1.016" width="0.2032" layer="21"/>
-<wire x1="-3.048" y1="1.028" x2="-3.048" y2="-1.016" width="0.2032" layer="21"/>
-<wire x1="-2.54" y1="1.27" x2="-2.54" y2="0.508" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="-0.508" x2="-2.54" y2="-1.27" width="0.2032" layer="51"/>
-<wire x1="-2.54" y1="0.508" x2="-2.159" y2="-0.381" width="0.2032" layer="51"/>
-<circle x="0" y="0" radius="1.778" width="0.2032" layer="21"/>
+<package name="ALPS_SKHH">
 <pad name="1" x="-3.2512" y="2.2606" drill="1.016" diameter="1.8796"/>
 <pad name="2" x="3.2512" y="2.2606" drill="1.016" diameter="1.8796"/>
 <pad name="3" x="-3.2512" y="-2.2606" drill="1.016" diameter="1.8796"/>
 <pad name="4" x="3.2512" y="-2.2606" drill="1.016" diameter="1.8796"/>
-<text x="-1.905" y="-4.445" size="0.8128" layer="25" font="vector" ratio="10">&gt;NAME</text>
-<wire x1="-4.445" y1="3.429" x2="-4.445" y2="-3.429" width="0.127" layer="39"/>
-<wire x1="-4.445" y1="-3.429" x2="4.445" y2="-3.429" width="0.127" layer="39"/>
-<wire x1="4.445" y1="-3.429" x2="4.445" y2="3.429" width="0.127" layer="39"/>
-<wire x1="4.445" y1="3.429" x2="-4.445" y2="3.429" width="0.127" layer="39"/>
-<wire x1="-4.445" y1="-3.429" x2="4.445" y2="-3.429" width="0.0508" layer="51"/>
-<wire x1="4.445" y1="-3.429" x2="4.445" y2="3.429" width="0.0508" layer="51"/>
-<wire x1="4.445" y1="3.429" x2="-4.445" y2="3.429" width="0.0508" layer="51"/>
-<wire x1="-4.445" y1="3.429" x2="-4.445" y2="-3.429" width="0.0508" layer="51"/>
+<text x="-1.905" y="-6.445" size="0.8128" layer="25" font="vector" ratio="10">&gt;NAME</text>
+<circle x="0" y="0" radius="0.508" width="0.2286" layer="21"/>
+<wire x1="-1.27" y1="-1.905" x2="1.27" y2="-1.905" width="0.2286" layer="21"/>
+<wire x1="1.27" y1="-1.905" x2="1.905" y2="-1.27" width="0.2286" layer="21" curve="90"/>
+<wire x1="1.905" y1="-1.27" x2="1.905" y2="1.27" width="0.2286" layer="21"/>
+<wire x1="1.905" y1="1.27" x2="1.27" y2="1.905" width="0.2286" layer="21" curve="90"/>
+<wire x1="1.27" y1="1.905" x2="-0.635" y2="1.905" width="0.2286" layer="21"/>
+<wire x1="-0.635" y1="1.905" x2="-1.27" y2="1.905" width="0.2286" layer="21"/>
+<wire x1="-1.27" y1="1.905" x2="-1.905" y2="1.27" width="0.2286" layer="21" curve="90"/>
+<wire x1="-1.905" y1="1.27" x2="-1.905" y2="-1.27" width="0.2286" layer="21"/>
+<wire x1="-1.905" y1="-1.27" x2="-1.27" y2="-1.905" width="0.2286" layer="21" curve="90"/>
+<pad name="5" x="0" y="-4.1" drill="1.016" diameter="1.8796"/>
 </package>
 <package name="SOLDERJUMPER">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.2032" layer="21"/>
@@ -1563,10 +1546,9 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="MF" value="" constant="no"/>
-<attribute name="MPN" value="" constant="no"/>
-<attribute name="OC_FARNELL" value="unknown" constant="no"/>
-<attribute name="OC_NEWARK" value="unknown" constant="no"/>
+<attribute name="MF" value="Hirose Connector" constant="no"/>
+<attribute name="MPN" value="UX60-MB-5ST" constant="no"/>
+<attribute name="OC_MOUSER" value="798-UX60-MB-5ST" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1645,21 +1627,20 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="MF" value="Dialight" constant="no"/>
-<attribute name="MPN" value="597-3305-607F" constant="no"/>
-<attribute name="OC_MOUSER" value="645-597-3305-607F" constant="no"/>
-<attribute name="VALUE" value="LED" constant="no"/>
+<attribute name="MF" value="ROHM Semiconductor" constant="no"/>
+<attribute name="MPN" value="SML-211DTT86" constant="no"/>
+<attribute name="OC_MOUSER" value="755-SML-211DTT86" constant="no"/>
 </technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SWITCH" prefix="S" uservalue="yes">
+<deviceset name="TACT_SWITCH" prefix="S" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="SWITCH" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="SWITCH_PTH">
+<device name="" package="ALPS_SKHH">
 <connects>
 <connect gate="G$1" pin="1" pad="1 2"/>
 <connect gate="G$1" pin="3" pad="3 4"/>
@@ -1667,8 +1648,8 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <technologies>
 <technology name="">
 <attribute name="MF" value="ALPS" constant="no"/>
-<attribute name="MPN" value="SKHHAMA010" constant="no"/>
-<attribute name="OC_MOUSER" value="688-SKHHAM" constant="no"/>
+<attribute name="MPN" value="SKHHPKA010" constant="no"/>
+<attribute name="OC_MOUSER" value="688-SKHHPK" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1762,8 +1743,6 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <part name="R2" library="t32_ref" deviceset="FERRITE" device="" value="600R"/>
 <part name="GND8" library="t32_ref" deviceset="GND" device=""/>
 <part name="X1" library="t32_ref" deviceset="MINI-USB" device="UX60-MB-5ST" value="MINI-USB">
-<attribute name="MF" value="Hirose"/>
-<attribute name="MPN" value="UX60-MB-5ST"/>
 <attribute name="OC_MOUSER" value="798-UX60-MB-5ST"/>
 </part>
 <part name="GND9" library="t32_ref" deviceset="GND" device=""/>
@@ -1835,10 +1814,10 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <part name="GND3" library="t32_ref" deviceset="GND" device=""/>
 <part name="GND2" library="t32_ref" deviceset="GND" device=""/>
 <part name="R7" library="t32_ref" deviceset="DIODE_DUAL" device=""/>
-<part name="P1" library="t32_ref" deviceset="LED" device="" value="LED"/>
+<part name="P1" library="t32_ref" deviceset="LED" device=""/>
 <part name="GND21" library="t32_ref" deviceset="GND" device=""/>
 <part name="GND15" library="t32_ref" deviceset="GND" device=""/>
-<part name="S1" library="t32_ref" deviceset="SWITCH" device=""/>
+<part name="S1" library="t32_ref" deviceset="TACT_SWITCH" device=""/>
 <part name="GND16" library="t32_ref" deviceset="GND" device=""/>
 <part name="SJ1" library="t32_ref" deviceset="SOLDERJUMPER" device=""/>
 <part name="R1" library="t32_ref" deviceset="FUSE" device="" value="0.5A"/>
@@ -1890,7 +1869,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <text x="187.96" y="55.88" size="1.778" layer="97" align="center-left">24</text>
 <text x="187.96" y="53.34" size="1.778" layer="97" align="center-left">GND</text>
 <text x="187.96" y="50.8" size="1.778" layer="97" align="center-left">A12</text>
-<text x="187.96" y="40.64" size="1.778" layer="97" align="center-left">DAC/A14</text>
+<text x="187.96" y="40.64" size="1.778" layer="97" align="center-left">DAC / A14</text>
 <text x="10.16" y="66.04" size="1.778" layer="97" rot="R180" align="center-left">GND</text>
 <text x="10.16" y="60.96" size="1.778" layer="97" rot="R180" align="center-left">VBAT</text>
 <text x="10.16" y="63.5" size="1.778" layer="97" rot="R180" align="center-left">3.3V</text>
@@ -1908,9 +1887,9 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <text x="10.16" y="12.7" size="1.778" layer="97" rot="R180" align="center-left">GND</text>
 <text x="187.96" y="38.1" size="1.778" layer="97" align="center-left">GND</text>
 <text x="187.96" y="33.02" size="1.778" layer="97" align="center-left">3.3V</text>
-<wire x1="0" y1="180.34" x2="200.66" y2="180.34" width="0.1524" layer="97"/>
-<wire x1="200.66" y1="180.34" x2="200.66" y2="0" width="0.1524" layer="97"/>
-<wire x1="200.66" y1="0" x2="0" y2="0" width="0.1524" layer="97"/>
+<wire x1="0" y1="180.34" x2="201.93" y2="180.34" width="0.1524" layer="97"/>
+<wire x1="201.93" y1="180.34" x2="201.93" y2="0" width="0.1524" layer="97"/>
+<wire x1="201.93" y1="0" x2="0" y2="0" width="0.1524" layer="97"/>
 <wire x1="0" y1="0" x2="0" y2="180.34" width="0.1524" layer="97"/>
 </plain>
 <instances>
