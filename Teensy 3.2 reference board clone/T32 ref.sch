@@ -8,24 +8,24 @@
 </settings>
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="13" fill="10" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="13" fill="10" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -34,8 +34,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -43,19 +43,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="13" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="13" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -968,6 +968,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="MK20DX256VLH7" constant="no"/>
 <attribute name="MF" value="NXP" constant="no"/>
 <attribute name="MPN" value="MK20DX256VLH7" constant="no"/>
 <attribute name="OC_MOUSER" value="841-MK20DX256VLH7" constant="no"/>
@@ -977,7 +978,6 @@
 </devices>
 </deviceset>
 <deviceset name="MKL04Z32VLC4" prefix="K" uservalue="yes">
-<description>MKL04Z32 bootloader chip for Teensy LC (MKL26) and Teensy 3.2 (MKL20DX256) processors.</description>
 <gates>
 <gate name="G$1" symbol="MKL02Z32" x="0" y="-2.54"/>
 </gates>
@@ -1005,6 +1005,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="MKL04Z32VLC4 (preprogrammed)" constant="no"/>
 <attribute name="MF" value="PJRC" constant="no"/>
 <attribute name="MPN" value="IC_MKL04Z32_TQFP32" constant="no"/>
 </technology>
@@ -1026,7 +1027,6 @@
 </devices>
 </deviceset>
 <deviceset name="CRYSTAL-" prefix="G" uservalue="yes">
-<description>306010005</description>
 <gates>
 <gate name="G$1" symbol="CRYSTAL" x="0" y="0"/>
 </gates>
@@ -1038,6 +1038,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="16MHz / 18pF / 10ppm" constant="no"/>
 <attribute name="MF" value="ABRACON" constant="no"/>
 <attribute name="MPN" value="ABL-16.000MHz-B1U" constant="no"/>
 <attribute name="OC_MOUSER" value="815-ABL-16-B1U" constant="no"/>
@@ -1052,6 +1053,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="32.768kHz / 12.5pF / 10ppm" constant="no"/>
 <attribute name="MF" value="Citizen FineDevice" constant="no"/>
 <attribute name="MPN" value="CFS206-32.768KEZB-U" constant="no"/>
 <attribute name="OC_MOUSER" value="695-CFS206-327KEZB-U" constant="no"/>
@@ -1062,7 +1064,6 @@
 </devices>
 </deviceset>
 <deviceset name="CAPACITOR-0.1UF" prefix="C" uservalue="yes">
-<description>302010138</description>
 <gates>
 <gate name="G$1" symbol="C" x="0" y="0"/>
 </gates>
@@ -1074,6 +1075,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="0.1uF / 16VDC /  X7R " constant="no"/>
 <attribute name="MF" value="Wurth Electronics" constant="no"/>
 <attribute name="MPN" value="885012206046" constant="no"/>
 <attribute name="OC_MOUSER" value="710-885012206046" constant="no"/>
@@ -1084,7 +1086,6 @@
 </devices>
 </deviceset>
 <deviceset name="CAPACITOR-2.2UF" prefix="C" uservalue="yes">
-<description>302010165</description>
 <gates>
 <gate name="G$1" symbol="C" x="0" y="0"/>
 </gates>
@@ -1096,6 +1097,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="2.2uF / 25 VDC / X7R " constant="no"/>
 <attribute name="MF" value="Taiyo Yuden" constant="no"/>
 <attribute name="MPN" value="TMK212B7225KG-TR" constant="no"/>
 <attribute name="OC_MOUSER" value="963-TMK212B7225KG-TR" constant="no"/>
@@ -1106,7 +1108,6 @@
 </devices>
 </deviceset>
 <deviceset name="RESISTOR-33R" prefix="R" uservalue="yes">
-<description>301010262</description>
 <gates>
 <gate name="G$1" symbol="RES" x="0" y="0"/>
 </gates>
@@ -1118,6 +1119,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="33R / 1% / 0.25 W" constant="no"/>
 <attribute name="MF" value="Panasonic" constant="no"/>
 <attribute name="MPN" value="ERJ-PA3F33R0V" constant="no"/>
 <attribute name="OC_MOUSER" value="667-ERJ-PA3F33R0V" constant="no"/>
@@ -1128,7 +1130,6 @@
 </devices>
 </deviceset>
 <deviceset name="RESISTOR-470R" prefix="R" uservalue="yes">
-<description>301010088</description>
 <gates>
 <gate name="G$1" symbol="RES" x="0" y="0"/>
 </gates>
@@ -1140,6 +1141,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="470R / 1 % /  0.1 W" constant="no"/>
 <attribute name="MF" value="Vishay" constant="no"/>
 <attribute name="MPN" value="CRCW0603470RFKEA" constant="no"/>
 <attribute name="OC_MOUSER" value="71-CRCW0603-470-E3" constant="no"/>
@@ -1161,6 +1163,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="22pF / 50VDC / C0G (NP0)" constant="no"/>
 <attribute name="MF" value="Vishay / Vitramon" constant="no"/>
 <attribute name="MPN" value="VJ0603A220JXACW1BC" constant="no"/>
 <attribute name="OC_MOUSER" value="77-VJ0603A220JXACBC" constant="no"/>
@@ -1171,7 +1174,6 @@
 </devices>
 </deviceset>
 <deviceset name="FERRITE" prefix="R" uservalue="yes">
-<description>303010110</description>
 <gates>
 <gate name="G$1" symbol="INDUCTOR/FERRITE-BEAD" x="0" y="0"/>
 </gates>
@@ -1183,6 +1185,7 @@
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="600R / 100MHz" constant="no"/>
 <attribute name="MF" value="Taiyo Yuden" constant="no"/>
 <attribute name="MPN" value="BK2125HM601-T" constant="no"/>
 <attribute name="OC_MOUSER" value="963-BK2125HM601-T" constant="no"/>
@@ -1192,8 +1195,6 @@
 </devices>
 </deviceset>
 <deviceset name="MINI-USB" prefix="X" uservalue="yes">
-<description>&lt;b&gt;MINI USB Connector&lt;/b&gt;&lt;p&gt;
-Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <gates>
 <gate name="G$1" symbol="MINI-USB" x="0" y="0"/>
 </gates>
@@ -1209,9 +1210,10 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="MINI-USB" constant="no"/>
 <attribute name="MF" value="MOLEX" constant="no"/>
 <attribute name="MOUSER_OC" value="538-67503-1020" constant="no"/>
-<attribute name="MPN" value="0675031230" constant="no"/>
+<attribute name="MPN" value="0675031020" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1246,6 +1248,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="3.3V 500mA" constant="no"/>
 <attribute name="MF" value="Microchip Technology" constant="no"/>
 <attribute name="MPN" value="MCP1825S-3302E/DB" constant="no"/>
 <attribute name="OC_MOUSER" value="579-MCP1825S-3302EDB" constant="no"/>
@@ -1256,7 +1259,6 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </devices>
 </deviceset>
 <deviceset name="DIODE_DUAL" prefix="R" uservalue="yes">
-<description>304020016</description>
 <gates>
 <gate name="G$1" symbol="DIODE_DUAL" x="0" y="0"/>
 </gates>
@@ -1269,6 +1271,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="Dual Schottky, common cat" constant="no"/>
 <attribute name="MF" value="NXP Semiconductors" constant="no"/>
 <attribute name="MPN" value="BAT54C,215" constant="no"/>
 <attribute name="OC_MOUSER" value="771-BAT54C-T/R" constant="no"/>
@@ -1278,7 +1281,6 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </devices>
 </deviceset>
 <deviceset name="LED" prefix="P" uservalue="yes">
-<description>304090046</description>
 <gates>
 <gate name="G$1" symbol="LED" x="0" y="0"/>
 </gates>
@@ -1290,6 +1292,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="orange" constant="no"/>
 <attribute name="MF" value="ROHM Semiconductor" constant="no"/>
 <attribute name="MPN" value="SML-211DTT86" constant="no"/>
 <attribute name="OC_MOUSER" value="755-SML-211DTT86" constant="no"/>
@@ -1310,6 +1313,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="SPST" constant="no"/>
 <attribute name="MF" value="ALPS" constant="no"/>
 <attribute name="MPN" value="SKHHPKA010" constant="no"/>
 <attribute name="OC_MOUSER" value="688-SKHHPK" constant="no"/>
@@ -1319,12 +1323,6 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </devices>
 </deviceset>
 <deviceset name="SOLDERJUMPER" prefix="SJ" uservalue="yes">
-<description>&lt;b&gt;Solder Jumper - Closed&lt;/b&gt;
-&lt;p&gt;These solder jumpers are closed by default&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;CLOSEDWIRE&lt;/b&gt; - 10 mil trace between pads that can be cut and resoldered later&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;CLOSEDPERM&lt;/b&gt; - 63 mil trace between pads for a permanent connection (used to 'bridge' two signals, a shameless hack for Eagle).  Can double as a test point as well (no cream layer)&lt;/li&gt;
-&lt;/ul&gt;</description>
 <gates>
 <gate name="G$1" symbol="SOLDERJUMPER" x="0" y="0"/>
 </gates>
@@ -1341,7 +1339,6 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </devices>
 </deviceset>
 <deviceset name="FUSE" prefix="R" uservalue="yes">
-<description>307010046</description>
 <gates>
 <gate name="G$1" symbol="FUSE" x="0" y="0"/>
 </gates>
@@ -1353,6 +1350,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </connects>
 <technologies>
 <technology name="">
+<attribute name="DESC" value="6V / 0.5A" constant="no"/>
 <attribute name="MF" value="Bel Fuse" constant="no"/>
 <attribute name="MPN" value="0ZCK0050FF2E" constant="no"/>
 <attribute name="OC_MOUSER" value="530-0ZCK0050FF2E" constant="no"/>
