@@ -62,7 +62,7 @@
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="96" name="Values" color="7" fill="1" visible="no" active="yes"/>
+<layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="99" name="SpiceOrder" color="7" fill="1" visible="yes" active="yes"/>
@@ -628,7 +628,7 @@
 <pin name="VDDA" x="-20.32" y="35.56" length="short"/>
 <pin name="VSS@4" x="-20.32" y="-53.34" length="short"/>
 <pin name="VDD@3" x="-20.32" y="53.34" length="short"/>
-<pin name="VOUT3V3" x="-20.32" y="55.88" length="short"/>
+<pin name="VOUT33" x="-20.32" y="55.88" length="short"/>
 <pin name="VREGIN" x="-20.32" y="58.42" length="short"/>
 <pin name="ADC0_DM3" x="20.32" y="-10.16" length="short" rot="R180"/>
 <pin name="ADC0_DP3" x="20.32" y="-43.18" length="short" rot="R180"/>
@@ -955,7 +955,7 @@
 <connect gate="G$1" pin="VDD@30" pad="30"/>
 <connect gate="G$1" pin="VDD@48" pad="48"/>
 <connect gate="G$1" pin="VDDA" pad="13"/>
-<connect gate="G$1" pin="VOUT3V3" pad="7"/>
+<connect gate="G$1" pin="VOUT33" pad="7"/>
 <connect gate="G$1" pin="VREFH" pad="14"/>
 <connect gate="G$1" pin="VREFL" pad="15"/>
 <connect gate="G$1" pin="VREF_OUT" pad="17"/>
@@ -1186,9 +1186,9 @@
 <technologies>
 <technology name="">
 <attribute name="DESC" value="600R / 100MHz" constant="no"/>
-<attribute name="MF" value="Taiyo Yuden" constant="no"/>
-<attribute name="MPN" value="BK2125HM601-T" constant="no"/>
-<attribute name="OC_MOUSER" value="963-BK2125HM601-T" constant="no"/>
+<attribute name="MF" value="Murata Electronics" constant="no"/>
+<attribute name="MPN" value=" BLM18AG601SN1D" constant="no"/>
+<attribute name="OC_MOUSER" value="81-BLM11A601S" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -2393,7 +2393,7 @@
 <wire x1="160.02" y1="154.94" x2="160.02" y2="161.29" width="0.1524" layer="91"/>
 <junction x="160.02" y="154.94"/>
 <wire x1="160.02" y1="161.29" x2="160.02" y2="166.37" width="0.1524" layer="91"/>
-<pinref part="K1" gate="G$1" pin="VOUT3V3"/>
+<pinref part="K1" gate="G$1" pin="VOUT33"/>
 <wire x1="109.22" y1="149.86" x2="106.68" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="149.86" x2="99.06" y2="149.86" width="0.1524" layer="91"/>
 <pinref part="C5" gate="G$1" pin="1"/>

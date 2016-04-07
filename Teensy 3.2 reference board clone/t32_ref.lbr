@@ -626,7 +626,7 @@
 <pin name="VDDA" x="-20.32" y="35.56" length="short"/>
 <pin name="VSS@4" x="-20.32" y="-53.34" length="short"/>
 <pin name="VDD@3" x="-20.32" y="53.34" length="short"/>
-<pin name="VOUT3V3" x="-20.32" y="55.88" length="short"/>
+<pin name="VOUT33" x="-20.32" y="55.88" length="short"/>
 <pin name="VREGIN" x="-20.32" y="58.42" length="short"/>
 <pin name="ADC0_DM3" x="20.32" y="-10.16" length="short" rot="R180"/>
 <pin name="ADC0_DP3" x="20.32" y="-43.18" length="short" rot="R180"/>
@@ -953,7 +953,7 @@
 <connect gate="G$1" pin="VDD@30" pad="30"/>
 <connect gate="G$1" pin="VDD@48" pad="48"/>
 <connect gate="G$1" pin="VDDA" pad="13"/>
-<connect gate="G$1" pin="VOUT3V3" pad="7"/>
+<connect gate="G$1" pin="VOUT33" pad="7"/>
 <connect gate="G$1" pin="VREFH" pad="14"/>
 <connect gate="G$1" pin="VREFL" pad="15"/>
 <connect gate="G$1" pin="VREF_OUT" pad="17"/>
@@ -1073,8 +1073,7 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R
-" constant="no"/>
+<attribute name="DESC" value="0.1uF / 16VDC /  X7R " constant="no"/>
 <attribute name="MF" value="Wurth Electronics" constant="no"/>
 <attribute name="MPN" value="885012206046" constant="no"/>
 <attribute name="OC_MOUSER" value="710-885012206046" constant="no"/>
@@ -1096,8 +1095,7 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="DESC" value="2.2uF / 25 VDC / X7R
-" constant="no"/>
+<attribute name="DESC" value="2.2uF / 25 VDC / X7R " constant="no"/>
 <attribute name="MF" value="Taiyo Yuden" constant="no"/>
 <attribute name="MPN" value="TMK212B7225KG-TR" constant="no"/>
 <attribute name="OC_MOUSER" value="963-TMK212B7225KG-TR" constant="no"/>
@@ -1186,9 +1184,10 @@
 <technologies>
 <technology name="">
 <attribute name="DESC" value="600R / 100MHz" constant="no"/>
-<attribute name="MF" value="Taiyo Yuden" constant="no"/>
-<attribute name="MPN" value="BK2125HM601-T" constant="no"/>
-<attribute name="OC_MOUSER" value="963-BK2125HM601-T" constant="no"/>
+<attribute name="MF" value="Murata Electronics" constant="no"/>
+<attribute name="MPN" value="
+BLM18AG601SN1D" constant="no"/>
+<attribute name="OC_MOUSER" value="81-BLM11A601S" constant="no"/>
 </technology>
 </technologies>
 </device>
