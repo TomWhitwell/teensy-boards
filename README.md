@@ -11,4 +11,4 @@
 [https://www.oshpark.com/shared_projects/Gnvbt7io](https://www.oshpark.com/shared_projects/Gnvbt7io)
 
 
-## Teensy 3.X to 2.2" display adapter T1
+## Teensy 3.2 reference board clone
