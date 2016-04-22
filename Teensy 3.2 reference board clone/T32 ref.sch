@@ -972,6 +972,8 @@
 <attribute name="MF" value="NXP" constant="no"/>
 <attribute name="MPN" value="MK20DX256VLH7" constant="no"/>
 <attribute name="OC_MOUSER" value="841-MK20DX256VLH7" constant="no"/>
+<attribute name="PACKAGE" value="LQFP-64" constant="no"/>
+<attribute name="TYPE" value="Microcontroller" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1008,6 +1010,8 @@
 <attribute name="DESC" value="MKL04Z32VLC4 (preprogrammed)" constant="no"/>
 <attribute name="MF" value="PJRC" constant="no"/>
 <attribute name="MPN" value="IC_MKL04Z32_TQFP32" constant="no"/>
+<attribute name="PACKAGE" value="LQFP-32" constant="no"/>
+<attribute name="TYPE" value="Microcontroller" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1042,6 +1046,8 @@
 <attribute name="MF" value="ABRACON" constant="no"/>
 <attribute name="MPN" value="ABL-16.000MHz-B1U" constant="no"/>
 <attribute name="OC_MOUSER" value="815-ABL-16-B1U" constant="no"/>
+<attribute name="PACKAGE" value="HC-49US" constant="no"/>
+<attribute name="TYPE" value="Crystal" constant="no"/>
 <attribute name="VALUE" value="16MHz" constant="no"/>
 </technology>
 </technologies>
@@ -1057,6 +1063,8 @@
 <attribute name="MF" value="Citizen FineDevice" constant="no"/>
 <attribute name="MPN" value="CFS206-32.768KEZB-U" constant="no"/>
 <attribute name="OC_MOUSER" value="695-CFS206-327KEZB-U" constant="no"/>
+<attribute name="PACKAGE" value="tc-26h" constant="no"/>
+<attribute name="TYPE" value="Crystal" constant="no"/>
 <attribute name="VALUE" value="32.768kHz" constant="no"/>
 </technology>
 </technologies>
@@ -1079,6 +1087,8 @@
 <attribute name="MF" value="Wurth Electronics" constant="no"/>
 <attribute name="MPN" value="885012206046" constant="no"/>
 <attribute name="OC_MOUSER" value="710-885012206046" constant="no"/>
+<attribute name="PACKAGE" value="0603" constant="no"/>
+<attribute name="TYPE" value="Capacitor" constant="no"/>
 <attribute name="VALUE" value="0.1uF"/>
 </technology>
 </technologies>
@@ -1101,6 +1111,8 @@
 <attribute name="MF" value="Taiyo Yuden" constant="no"/>
 <attribute name="MPN" value="TMK212B7225KG-TR" constant="no"/>
 <attribute name="OC_MOUSER" value="963-TMK212B7225KG-TR" constant="no"/>
+<attribute name="PACKAGE" value="0805" constant="no"/>
+<attribute name="TYPE" value="Capacitor" constant="no"/>
 <attribute name="VALUE" value="2.2uF"/>
 </technology>
 </technologies>
@@ -1123,6 +1135,8 @@
 <attribute name="MF" value="Panasonic" constant="no"/>
 <attribute name="MPN" value="ERJ-PA3F33R0V" constant="no"/>
 <attribute name="OC_MOUSER" value="667-ERJ-PA3F33R0V" constant="no"/>
+<attribute name="PACKAGE" value="0603" constant="no"/>
+<attribute name="TYPE" value="Resistor" constant="no"/>
 <attribute name="VALUE" value="33R"/>
 </technology>
 </technologies>
@@ -1145,6 +1159,8 @@
 <attribute name="MF" value="Vishay" constant="no"/>
 <attribute name="MPN" value="CRCW0603470RFKEA" constant="no"/>
 <attribute name="OC_MOUSER" value="71-CRCW0603-470-E3" constant="no"/>
+<attribute name="PACKAGE" value="0603" constant="no"/>
+<attribute name="TYPE" value="Resistor" constant="no"/>
 <attribute name="VALUE" value="470R"/>
 </technology>
 </technologies>
@@ -1167,6 +1183,8 @@
 <attribute name="MF" value="Vishay / Vitramon" constant="no"/>
 <attribute name="MPN" value="VJ0603A220JXACW1BC" constant="no"/>
 <attribute name="OC_MOUSER" value="77-VJ0603A220JXACBC" constant="no"/>
+<attribute name="PACKAGE" value="0603" constant="no"/>
+<attribute name="TYPE" value="Capacitor" constant="no"/>
 <attribute name="VALUE" value="22pF"/>
 </technology>
 </technologies>
@@ -1189,6 +1207,8 @@
 <attribute name="MF" value="Murata Electronics" constant="no"/>
 <attribute name="MPN" value=" BLM18AG601SN1D" constant="no"/>
 <attribute name="OC_MOUSER" value="81-BLM11A601S" constant="no"/>
+<attribute name="PACKAGE" value="0603" constant="no"/>
+<attribute name="TYPE" value="Ferrite" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1210,10 +1230,11 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="DESC" value="MINI-USB" constant="no"/>
+<attribute name="DESC" value="MINI USB" constant="no"/>
 <attribute name="MF" value="MOLEX" constant="no"/>
-<attribute name="MOUSER_OC" value="538-67503-1020" constant="no"/>
 <attribute name="MPN" value="0675031020" constant="no"/>
+<attribute name="OC_MOUSER" value="538-67503-1020" constant="no"/>
+<attribute name="TYPE" value="Mini USB" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1252,6 +1273,8 @@
 <attribute name="MF" value="Microchip Technology" constant="no"/>
 <attribute name="MPN" value="MCP1825S-3302E/DB" constant="no"/>
 <attribute name="OC_MOUSER" value="579-MCP1825S-3302EDB" constant="no"/>
+<attribute name="PACKAGE" value="SOT-223-3" constant="no"/>
+<attribute name="TYPE" value="Voltage regulator" constant="no"/>
 <attribute name="VALUE" value="MCP1825S" constant="no"/>
 </technology>
 </technologies>
@@ -1275,6 +1298,8 @@
 <attribute name="MF" value="NXP Semiconductors" constant="no"/>
 <attribute name="MPN" value="BAT54C,215" constant="no"/>
 <attribute name="OC_MOUSER" value="771-BAT54C-T/R" constant="no"/>
+<attribute name="PACKAGE" value="SOT-23" constant="no"/>
+<attribute name="TYPE" value="Diode" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1296,6 +1321,8 @@
 <attribute name="MF" value="ROHM Semiconductor" constant="no"/>
 <attribute name="MPN" value="SML-211DTT86" constant="no"/>
 <attribute name="OC_MOUSER" value="755-SML-211DTT86" constant="no"/>
+<attribute name="PACKAGE" value="0805" constant="no"/>
+<attribute name="TYPE" value="LED" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1317,6 +1344,8 @@
 <attribute name="MF" value="ALPS" constant="no"/>
 <attribute name="MPN" value="SKHHPKA010" constant="no"/>
 <attribute name="OC_MOUSER" value="688-SKHHPK" constant="no"/>
+<attribute name="PACKAGE" value="6x6x5 MM" constant="no"/>
+<attribute name="TYPE" value="Tactile switch" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1354,6 +1383,8 @@
 <attribute name="MF" value="Bel Fuse" constant="no"/>
 <attribute name="MPN" value="0ZCK0050FF2E" constant="no"/>
 <attribute name="OC_MOUSER" value="530-0ZCK0050FF2E" constant="no"/>
+<attribute name="PACKAGE" value="0603" constant="no"/>
+<attribute name="TYPE" value="PPTC" constant="no"/>
 </technology>
 </technologies>
 </device>

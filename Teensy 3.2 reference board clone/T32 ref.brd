@@ -13202,131 +13202,174 @@ einem neuen Namen ab.</description>
 <attribute name="MPN" value="MK20DX256VLH7" x="46.355" y="12.7" size="1.778" layer="27" rot="R315" display="off"/>
 <attribute name="MF" value="NXP" x="46.355" y="12.7" size="1.778" layer="27" rot="R315" display="off"/>
 <attribute name="DESC" value="MK20DX256VLH7" x="46.355" y="12.7" size="1.778" layer="27" rot="R315" display="off"/>
+<attribute name="PACKAGE" value="LQFP-64" x="46.355" y="12.7" size="1.778" layer="27" rot="R315" display="off"/>
+<attribute name="TYPE" value="Microcontroller" x="46.355" y="12.7" size="1.778" layer="27" rot="R315" display="off"/>
 </element>
 <element name="K2" library="t32_ref" package="LQFP32-08" value="MKL04Z32VLC4" x="20.3835" y="11.3665" rot="R90">
 <attribute name="MPN" value="IC_MKL04Z32_TQFP32" x="20.3835" y="11.3665" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="PJRC" x="20.3835" y="11.3665" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="MKL04Z32VLC4 (preprogrammed)" x="20.3835" y="11.3665" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="LQFP-32" x="20.3835" y="11.3665" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Microcontroller" x="20.3835" y="11.3665" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="G1" library="t32_ref" package="HC49US" value="16MHz" x="33.02" y="6.35" rot="R180">
 <attribute name="OC_MOUSER" value="815-ABL-16-B1U" x="33.02" y="6.35" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="ABL-16.000MHz-B1U" x="33.02" y="6.35" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="ABRACON" x="33.02" y="6.35" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESC" value="16MHz / 18pF / 10ppm" x="33.02" y="6.35" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PACKAGE" value="HC-49US" x="33.02" y="6.35" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TYPE" value="Crystal" x="33.02" y="6.35" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="G2" library="t32_ref" package="TC26H" value="32.768kHz" x="36.83" y="12.065" rot="R90">
 <attribute name="OC_MOUSER" value="695-CFS206-327KEZB-U" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="CFS206-32.768KEZB-U" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Citizen FineDevice" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="32.768kHz / 12.5pF / 10ppm" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="tc-26h" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Crystal" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C5" library="t32_ref" package="C0603" value="0.1uF" x="55.372" y="12.065" rot="R90">
 <attribute name="OC_MOUSER" value="710-885012206046" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="885012206046" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Wurth Electronics" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C4" library="t32_ref" package="C0603" value="0.1uF" x="40.64" y="5.207" rot="R90">
 <attribute name="OC_MOUSER" value="710-885012206046" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="885012206046" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Wurth Electronics" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C12" library="t32_ref" package="C0603" value="0.1uF" x="20.828" y="5.08" rot="R90">
 <attribute name="OC_MOUSER" value="710-885012206046" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="885012206046" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Wurth Electronics" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C8" library="t32_ref" package="C0603" value="0.1uF" x="36.703" y="15.24" rot="R180">
 <attribute name="OC_MOUSER" value="710-885012206046" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="885012206046" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="Wurth Electronics" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PACKAGE" value="0603" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C7" library="t32_ref" package="C0603" value="0.1uF" x="34.925" y="15.24">
 <attribute name="OC_MOUSER" value="710-885012206046" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="885012206046" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="Wurth Electronics" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
 <attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0603" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C9" library="t32_ref" package="C0603" value="0.1uF" x="55.245" y="6.985" rot="R90">
 <attribute name="OC_MOUSER" value="710-885012206046" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="885012206046" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Wurth Electronics" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C2" library="t32_ref" package="C0805" value="2.2uF" x="12.827" y="7.493" rot="R270">
 <attribute name="MPN" value="TMK212B7225KG-TR" x="12.827" y="7.493" size="0.253546875" layer="27" font="vector" rot="R270" display="off"/>
 <attribute name="OC_MOUSER" value="963-TMK212B7225KG-TR" x="12.827" y="7.493" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="Taiyo Yuden" x="12.827" y="7.493" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DESC" value="2.2uF / 25 VDC / X7R " x="12.827" y="7.493" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PACKAGE" value="0805" x="12.827" y="7.493" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="12.827" y="7.493" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C3" library="t32_ref" package="C0805" value="2.2uF" x="11.938" y="12.2555">
 <attribute name="MPN" value="TMK212B7225KG-TR" x="11.938" y="12.2555" size="0.253546875" layer="27" font="vector" display="off"/>
 <attribute name="OC_MOUSER" value="963-TMK212B7225KG-TR" x="11.938" y="12.2555" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="Taiyo Yuden" x="11.938" y="12.2555" size="1.778" layer="27" display="off"/>
 <attribute name="DESC" value="2.2uF / 25 VDC / X7R " x="11.938" y="12.2555" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0805" x="11.938" y="12.2555" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="11.938" y="12.2555" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C6" library="t32_ref" package="C0805" value="2.2uF" x="31.115" y="15.875">
 <attribute name="MPN" value="TMK212B7225KG-TR" x="31.115" y="15.875" size="0.253546875" layer="27" display="off"/>
 <attribute name="OC_MOUSER" value="963-TMK212B7225KG-TR" x="31.115" y="15.875" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="Taiyo Yuden" x="31.115" y="15.875" size="1.778" layer="27" display="off"/>
 <attribute name="DESC" value="2.2uF / 25 VDC / X7R " x="31.115" y="15.875" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0805" x="31.115" y="15.875" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="31.115" y="15.875" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R5" library="t32_ref" package="R0603" value="33R" x="12.827" y="17.78" rot="R90">
 <attribute name="MPN" value="ERJ-PA3F33R0V" x="12.827" y="17.78" size="0.253546875" layer="27" rot="R90" display="off"/>
 <attribute name="OC_MOUSER" value="667-ERJ-PA3F33R0V" x="12.827" y="17.78" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Panasonic" x="12.827" y="17.78" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="33R / 1% / 0.25 W" x="12.827" y="17.78" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="12.827" y="17.78" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Resistor" x="12.827" y="17.78" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="R3" library="t32_ref" package="R0603" value="470R" x="33.147" y="15.24" rot="R180">
 <attribute name="MPN" value="CRCW0603470RFKEA" x="33.147" y="15.24" size="0.253546875" layer="27" rot="R180" display="off"/>
 <attribute name="OC_MOUSER" value="71-CRCW0603-470-E3" x="33.147" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="Vishay" x="33.147" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESC" value="470R / 1 % /  0.1 W" x="33.147" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PACKAGE" value="0603" x="33.147" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TYPE" value="Resistor" x="33.147" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R8" library="t32_ref" package="R0603" value="470R" x="63.373" y="19.685" rot="R270">
 <attribute name="MPN" value="CRCW0603470RFKEA" x="63.373" y="19.685" size="0.253546875" layer="27" rot="R270" display="off"/>
 <attribute name="OC_MOUSER" value="71-CRCW0603-470-E3" x="63.373" y="19.685" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="Vishay" x="63.373" y="19.685" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DESC" value="470R / 1 % /  0.1 W" x="63.373" y="19.685" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PACKAGE" value="0603" x="63.373" y="19.685" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TYPE" value="Resistor" x="63.373" y="19.685" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="R6" library="t32_ref" package="R0603" value="33R" x="12.827" y="15.875" rot="R90">
 <attribute name="MPN" value="ERJ-PA3F33R0V" x="12.827" y="15.875" size="0.253546875" layer="27" rot="R90" display="off"/>
 <attribute name="OC_MOUSER" value="667-ERJ-PA3F33R0V" x="12.827" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Panasonic" x="12.827" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="33R / 1% / 0.25 W" x="12.827" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="12.827" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Resistor" x="12.827" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C10" library="t32_ref" package="C0603" value="22pF" x="34.163" y="9.779" rot="R270">
 <attribute name="OC_MOUSER" value="77-VJ0603A220JXACBC" x="34.163" y="9.779" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="VJ0603A220JXACW1BC" x="34.163" y="9.779" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="Vishay / Vitramon" x="34.163" y="9.779" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DESC" value="22pF / 50VDC / C0G (NP0)" x="34.163" y="9.779" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PACKAGE" value="0603" x="34.163" y="9.779" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="34.163" y="9.779" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C11" library="t32_ref" package="C0603" value="22pF" x="30.988" y="9.779" rot="R90">
 <attribute name="OC_MOUSER" value="77-VJ0603A220JXACBC" x="30.988" y="9.779" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="VJ0603A220JXACW1BC" x="30.988" y="9.779" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Vishay / Vitramon" x="30.988" y="9.779" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="22pF / 50VDC / C0G (NP0)" x="30.988" y="9.779" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="30.988" y="9.779" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="30.988" y="9.779" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="R4" library="t32_ref" package="L0603" value="" x="27.305" y="15.24" rot="R90">
 <attribute name="OC_MOUSER" value="81-BLM11A601S" x="27.305" y="15.24" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value=" BLM18AG601SN1D" x="27.305" y="15.24" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Murata Electronics" x="27.305" y="15.24" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="600R / 100MHz" x="27.305" y="15.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="0603" x="27.305" y="15.24" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Ferrite" x="27.305" y="15.24" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="R2" library="t32_ref" package="L0603" value="" x="29.083" y="15.24" rot="R270">
 <attribute name="OC_MOUSER" value="81-BLM11A601S" x="29.083" y="15.24" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value=" BLM18AG601SN1D" x="29.083" y="15.24" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="Murata Electronics" x="29.083" y="15.24" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DESC" value="600R / 100MHz" x="29.083" y="15.24" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PACKAGE" value="0603" x="29.083" y="15.24" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TYPE" value="Ferrite" x="29.083" y="15.24" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="X1" library="t32_ref" package="MOLEX_SD-67503-010" value="MINI-USB" x="5.286" y="12.065">
 <attribute name="MPN" value="0675031020" x="5.286" y="12.065" size="0.253546875" layer="27" display="off"/>
 <attribute name="MF" value="MOLEX" x="5.286" y="12.065" size="0.253546875" layer="27" display="off"/>
-<attribute name="MOUSER_OC" value="538-67503-1020" x="5.286" y="12.065" size="1.778" layer="27" display="off"/>
-<attribute name="DESC" value="MINI-USB" x="5.286" y="12.065" size="1.778" layer="27" display="off"/>
+<attribute name="DESC" value="MINI USB" x="5.286" y="12.065" size="1.778" layer="27" display="off"/>
+<attribute name="OC_MOUSER" value="538-67503-1020" x="5.286" y="12.065" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="Mini USB" x="5.286" y="12.065" size="1.778" layer="27" display="off"/>
 </element>
 <element name="SX56" library="t32_ref" package="PTH_39MIL" value="PIN" x="11.43" y="1.27"/>
 <element name="SX31" library="t32_ref" package="PTH_39MIL" value="PIN" x="16.51" y="1.27"/>
@@ -13393,24 +13436,32 @@ einem neuen Namen ab.</description>
 <attribute name="MPN" value="MCP1825S-3302E/DB" x="12.7" y="12.065" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="MF" value="Microchip Technology" x="12.7" y="12.065" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="DESC" value="3.3V 500mA" x="12.7" y="12.065" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="PACKAGE" value="SOT-223-3" x="12.7" y="12.065" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="TYPE" value="Voltage regulator" x="12.7" y="12.065" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
 <element name="R7" library="t32_ref" package="SOT-23" value="" x="59.69" y="6.731" rot="R90">
 <attribute name="MPN" value="BAT54C,215" x="59.69" y="6.731" size="0.254" layer="27" font="vector" rot="R90" display="off"/>
 <attribute name="OC_MOUSER" value="771-BAT54C-T/R" x="59.69" y="6.731" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="NXP Semiconductors" x="59.69" y="6.731" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="Dual Schottky, common cat" x="59.69" y="6.731" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="SOT-23" x="59.69" y="6.731" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Diode" x="59.69" y="6.731" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="P1" library="t32_ref" package="LED-0805" value="" x="59.69" y="19.685">
 <attribute name="MPN" value="SML-211DTT86" x="59.69" y="19.685" size="0.254" layer="27" font="vector" display="off"/>
 <attribute name="OC_MOUSER" value="755-SML-211DTT86" x="59.69" y="19.685" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="ROHM Semiconductor" x="59.69" y="19.685" size="1.778" layer="27" display="off"/>
 <attribute name="DESC" value="orange" x="59.69" y="19.685" size="1.778" layer="27" display="off"/>
+<attribute name="PACKAGE" value="0805" x="59.69" y="19.685" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="LED" x="59.69" y="19.685" size="1.778" layer="27" display="off"/>
 </element>
 <element name="S1" library="t32_ref" package="ALPS_SKHH" value="" x="59.69" y="12.7" rot="R90">
 <attribute name="OC_MOUSER" value="688-SKHHPK" x="59.69" y="12.7" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="SKHHPKA010" x="59.69" y="12.7" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="ALPS" x="59.69" y="12.7" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESC" value="SPST" x="59.69" y="12.7" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="6x6x5 MM" x="59.69" y="12.7" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Tactile switch" x="59.69" y="12.7" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="SJ1" library="t32_ref" package="SOLDERJUMPER" value="" x="6.35" y="19.05"/>
 <element name="R1" library="t32_ref" package="F0805" value="FUSE" x="1.524" y="21.59" rot="R180">
@@ -13418,12 +13469,16 @@ einem neuen Namen ab.</description>
 <attribute name="OC_MOUSER" value="530-0ZCK0050FF2E" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="Bel Fuse" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESC" value="6V / 0.5A" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PACKAGE" value="0603" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TYPE" value="PPTC" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C1" library="t32_ref" package="C0603" value="0.1uF" x="16.129" y="17.145" rot="R180">
 <attribute name="OC_MOUSER" value="710-885012206046" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="885012206046" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="Wurth Electronics" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PACKAGE" value="0603" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TYPE" value="Capacitor" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 </elements>
 <signals>
