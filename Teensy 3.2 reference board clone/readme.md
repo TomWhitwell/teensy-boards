@@ -6,9 +6,11 @@ Teensy3 reference board recreated in eagle
 
 shared basket at mouser: http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=719df5721e
 
+Pre-programmed Bootloader Chip for DIY Teensy LC & 3.2 Projects http://pjrc.com/store/ic_mkl02.html (IC_MKL04Z32_TQFP32)
+
 shared project on osh park: https://www.oshpark.com/shared_projects/h2HB6bQQ
 
-## What is different from the "original" Teensy 3.2 DIY Reference Board
+### What is different from the "original" Teensy 3.2 DIY Reference Board
 
 PJRC Teensy 3.2 DIY Reference Board https://www.oshpark.com/shared_projects/d3J03Zeb
 
