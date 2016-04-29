@@ -1,5 +1,8 @@
-!(/images/1-P1010128-001.jpg)
-Copy of the Teensy3 reference board, with eagle pcb files and Gerber files for osh park
+# Teensy 3 reference board clone
+
+Teensy3 reference board recreated in eagle
+
+![teensy3 ref board clone](images/1-P1010128-001.jpg)
 
 shared basket at mouser: http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=719df5721e
 
