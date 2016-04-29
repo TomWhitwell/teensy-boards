@@ -13221,58 +13221,58 @@ einem neuen Namen ab.</description>
 <attribute name="TYPE" value="Crystal" x="33.02" y="6.35" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="G2" library="t32_ref" package="TC26H" value="32.768kHz" x="36.83" y="12.065" rot="R90">
-<attribute name="OC_MOUSER" value="695-CFS206-327KEZB-U" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="CFS206-32.768KEZB-U" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_MOUSER" value="695-CFS206-327KF-U" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value=" CFS206-32.768KDZF-UB" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Citizen FineDevice" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESC" value="32.768kHz / 12.5pF / 10ppm" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PACKAGE" value="tc-26h" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESC" value="32.768kHz / 12.5pF / 20ppm" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PACKAGE" value="TC-26H" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="Crystal" x="36.83" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C5" library="t32_ref" package="C0603" value="0.1uF" x="55.372" y="12.065" rot="R90">
-<attribute name="OC_MOUSER" value="710-885012206046" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="885012206046" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Wurth Electronics" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_MOUSER" value="81-GRM155R71A104KA1D" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="GRM155R71A104KA01D" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata Electronics" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESC" value="0.1uF / 10VDC /  X7R " x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PACKAGE" value="0603" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="Capacitor" x="55.372" y="12.065" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C4" library="t32_ref" package="C0603" value="0.1uF" x="40.64" y="5.207" rot="R90">
-<attribute name="OC_MOUSER" value="710-885012206046" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="885012206046" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Wurth Electronics" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_MOUSER" value="81-GRM155R71A104KA1D" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="GRM155R71A104KA01D" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata Electronics" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESC" value="0.1uF / 10VDC /  X7R " x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PACKAGE" value="0603" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="Capacitor" x="40.64" y="5.207" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C12" library="t32_ref" package="C0603" value="0.1uF" x="20.828" y="5.08" rot="R90">
-<attribute name="OC_MOUSER" value="710-885012206046" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="885012206046" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Wurth Electronics" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_MOUSER" value="81-GRM155R71A104KA1D" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="GRM155R71A104KA01D" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata Electronics" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESC" value="0.1uF / 10VDC /  X7R " x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PACKAGE" value="0603" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="Capacitor" x="20.828" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C8" library="t32_ref" package="C0603" value="0.1uF" x="36.703" y="15.24" rot="R180">
-<attribute name="OC_MOUSER" value="710-885012206046" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="885012206046" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MF" value="Wurth Electronics" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_MOUSER" value="81-GRM155R71A104KA1D" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="GRM155R71A104KA01D" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MF" value="Murata Electronics" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DESC" value="0.1uF / 10VDC /  X7R " x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PACKAGE" value="0603" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="TYPE" value="Capacitor" x="36.703" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C7" library="t32_ref" package="C0603" value="0.1uF" x="34.925" y="15.24">
-<attribute name="OC_MOUSER" value="710-885012206046" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="885012206046" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Wurth Electronics" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
+<attribute name="OC_MOUSER" value="81-GRM155R71A104KA1D" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="GRM155R71A104KA01D" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Murata Electronics" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
+<attribute name="DESC" value="0.1uF / 10VDC /  X7R " x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
 <attribute name="PACKAGE" value="0603" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
 <attribute name="TYPE" value="Capacitor" x="34.925" y="15.24" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C9" library="t32_ref" package="C0603" value="0.1uF" x="55.245" y="6.985" rot="R90">
-<attribute name="OC_MOUSER" value="710-885012206046" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="885012206046" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MF" value="Wurth Electronics" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_MOUSER" value="81-GRM155R71A104KA1D" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="GRM155R71A104KA01D" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata Electronics" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESC" value="0.1uF / 10VDC /  X7R " x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PACKAGE" value="0603" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="Capacitor" x="55.245" y="6.985" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -13469,14 +13469,14 @@ einem neuen Namen ab.</description>
 <attribute name="OC_MOUSER" value="530-0ZCK0050FF2E" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="Bel Fuse" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESC" value="6V / 0.5A" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="PACKAGE" value="0603" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PACKAGE" value="0805" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="TYPE" value="PPTC" x="1.524" y="21.59" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C1" library="t32_ref" package="C0603" value="0.1uF" x="16.129" y="17.145" rot="R180">
-<attribute name="OC_MOUSER" value="710-885012206046" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="885012206046" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MF" value="Wurth Electronics" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="DESC" value="0.1uF / 16VDC /  X7R " x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_MOUSER" value="81-GRM155R71A104KA1D" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="GRM155R71A104KA01D" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MF" value="Murata Electronics" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DESC" value="0.1uF / 10VDC /  X7R " x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PACKAGE" value="0603" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="TYPE" value="Capacitor" x="16.129" y="17.145" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
